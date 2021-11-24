@@ -1,8 +1,8 @@
 ---
 title: "Leetcode Collections"
 permalink: /leetcode/
-layout: posts
+layout: leetcode
 author_profile: true
 header:
-image: /assets/images/background.jpeg
+    image: /assets/images/background.jpeg
 ---
