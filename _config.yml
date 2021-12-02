@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Grow 1% Per Day
+title: Grow 1% Per Day, Road to be VP
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Personal Website used to record the daily growth
@@ -112,3 +112,6 @@ systemDesign:
 todo:
   type: liquid
   path: /todo/
+read:
+  type: liquid
+  path: /read/

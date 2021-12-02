@@ -5,6 +5,8 @@ main:
     url: /leetcode/
   - title: "SystemDesign"
     url: /sd/
+  - title: "Reading"
+    url: /read/
   - title: "ToDo"
     url: /todo/
 #  - title: "Categories"
